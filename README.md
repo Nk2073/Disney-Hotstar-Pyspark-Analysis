@@ -25,6 +25,6 @@ The project demonstrates the use of PySpark for data analysis.
 
 ## Data Source
 
-The dataset used in this project contains information about Disney movies, including IMDb ratings, release year, genre, and more. The data is obtained from https://www.kaggle.com/.
+The dataset used in this project contains information about Disney movies, including IMDb ratings, release year, genre, and more. The data is obtained from (https://www.kaggle.com/datasets/sanjanaalaham/disney-hotstar-dataset).
 
 
